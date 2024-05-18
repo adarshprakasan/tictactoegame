@@ -1,4 +1,5 @@
 import Square from './Square';
+
 const Board = () => {
   return (
     <div className="board">
